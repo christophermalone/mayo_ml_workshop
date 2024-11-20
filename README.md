@@ -1,4 +1,4 @@
-# Mayo Workshop #1 - Introduction to Neural Net via TensorFlow + Keres
+# Mayo Workshop #1 - Introduction to Neural Nets
   - Handout #1: Introduction to Neural Nets
       - Data: WI Breast Cancer dataset
       - Neural Net - Big Picture
