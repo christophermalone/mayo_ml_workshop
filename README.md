@@ -1,6 +1,6 @@
 # Mayo Workshop #1 - Introduction to Neural Nets
     Authors:
-     - [Presenter] Chris Malone Ph D, Professor of Data Science and Statistics, Winona State University; Email: cmalone@winona.edu
+     - Chris Malone Ph D, Professor of Data Science and Statistics, Winona State University; Email: cmalone@winona.edu
      - Collin Engstrom PhD, Assistant Professor of Computer Science, Winona State University; Email: collin.engstrom@winona.edu
   - Handout #1: Introduction to Neural Nets
       - Data: WI Breast Cancer dataset
