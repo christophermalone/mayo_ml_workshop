@@ -1,4 +1,4 @@
-# Mayo Workshops - Fall 2024
+# Mayo AI / Machine Learning Workshops - Fall 2024
     Authors:
      - Chris Malone Ph D, Professor of Data Science and Statistics, Winona State University; Email: cmalone at winona.edu
      - Collin Engstrom PhD, Assistant Professor of Computer Science, Winona State University; Email: collin.engstrom at winona.edu
