@@ -2,23 +2,22 @@
     Authors:
      - Chris Malone Ph D, Professor of Data Science and Statistics, Winona State University; Email: cmalone at winona.edu
      - Collin Engstrom PhD, Assistant Professor of Computer Science, Winona State University; Email: collin.engstrom at winona.edu
-  - Handout #1: Introduction to Neural Nets
-      - Data: WI Breast Cancer dataset
-      - Neural Net - Big Picture
-      - Data Processing
-      - Cross Validation
-      - Fitting a Neural Net
-      - Model Performance Metrics
-      - Making Predictions
-      - Tuning Parameters
-  - Handout #2: Introduction to Neural Nets - A Second Example
-      - Data: Titantic dataset
-      - Dealing with Imbalance of Labels for the Class Variable
-      - Data Processing - OneHot Encoding, MinMax and Standard Scaling
-      - Fitting the Neural Net
-      - Making Predictions
-      - Model Performance
+  - Handout #6: Classification with K Nearest Neighbors
+      - Data: Heart Disease
+      - Includes: K Nearest Neighborsdetails, Distance Measures, Model Performance
+  - Handout #5: Classification with Random Forests
+      - Data: Heart Disease
+      - Includes: Random Forest details, Model Performance, Variable Importance
+  - Handout #4: Classification with Logistic Regression
+      - Data: Heart Disease
+      - Includes: Logistic Regression details, Model Performance, Variable Importance
   - Handout #3: Classification of Parkinson's Disease
       - Data: Parkinson's Disease
-      - Task: Build a Neural Net to predict disease status
+      - Includes: Build a Neural Net to predict disease status
+  - Handout #2: Introduction to Neural Nets - A Second Example
+        - Data: Titantic dataset
+        - Includes: Dealing with Imbalance, OneHot Encoding, MinMax Scaling
+  - Handout #1: Introduction to Neural Nets - An Example
+        - Data: WI Breast Cancer)
+        - Includes: Neural Net details, Cross Validation, Model Performance Metrics
 
